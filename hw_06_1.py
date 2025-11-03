@@ -10,7 +10,7 @@ class Field:
     def __str__(self):
         return str(self.value)
 
-# --- Клас для імені (обов'язкове) ---
+# --- Клас для імені 
 class Name(Field):
     # Поки що не додаємо логіки, лише наслідуємо
     pass
