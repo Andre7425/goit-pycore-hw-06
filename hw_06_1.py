@@ -115,7 +115,7 @@ class AddressBook(UserDict):
 
 # --- КОД ДЛЯ ПЕРЕВІРКИ ---
 
-
+ 
 if __name__ == '__main__':
     # Створення нової адресної книги
     book = AddressBook()
